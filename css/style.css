@@ -1,0 +1,66 @@
+body{
+	font-size:16px;
+	color: #fff;
+	background-color:#ccc;
+}
+
+#header-nav{
+	background-color: #ccc;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand{
+	padding-top: 25px;
+}
+
+.navbar-brand h1{
+	color: #000;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+#nav-list{
+	margin-top: 10px;
+	background-color: #333;
+}
+#nav-list a{
+	color: white;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+	border: 1px solid grey;
+}
+
+#nav-list a:hover{
+	background-color: #ccc;
+}
+
+/*END OF THE HEADER*/
+.title{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.squareinfo{
+margin-top: 15px;
+margin-bottom: 15px;
+background-color: #ccc;
+border: 1px solid black;
+}
+
+.titleinfo{
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.info{
+	padding: 20px;
+	font-size: 1.2em;
+}
